@@ -1,0 +1,61 @@
+/*Trial 1*/
+
+/*h1 {
+  font-family: helvetica; 
+
+}*/
+
+/*Trial 2*/
+
+/*#red {
+  margin: -15px; 
+  height: 240px;
+  width:350px;
+  background-color: #ff0000;
+  position: absolute;     
+  top: 0;
+  left: 0;
+}
+*/
+
+/*Trial 3*/
+
+body {
+  margin: 0;
+}
+
+/*.size {
+ /* margin: -10px;*/
+ /* height: 100px;
+  width: 500px;*/
+
+  /*  position: absolute;     
+  top: 0;
+  left: 0;*/
+
+}
+
+/*#black {
+  background-color: black;  
+}
+
+#red {
+  background-color: #ff0000;
+}
+
+#gold {
+  background-color: #ffd700;*/
+}
+
+/*
+Trial 4
+*/
+
+.black-box {
+  display: inline-block;  
+  margin: 50px;
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
+
